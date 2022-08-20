@@ -7,6 +7,6 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "juan carlos cabello",
   "license": "ISC"
 }
